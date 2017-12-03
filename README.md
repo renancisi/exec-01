@@ -9,8 +9,8 @@ As the documentation evolves with the orchestration of the containers:
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
-- [Documentation](#documentation-and-reasons-for-the-technologies-used)
 - [Example compose](#example-compose)
+- [Documentation](#documentation-and-reasons-for-the-technologies-used)
 
 # Prerequisites
 
@@ -68,3 +68,5 @@ In addition to the jenkins exercising the CD function, I orchestrated with the c
 The build is with manual call but already with the daily call, as requested in the exercise.
 
 I set up a framework that we can evolve as desired but to heal this demand, I have some constants such as the IP of the containers.
+
+To see the settings that were used, I left a series of printscreens attached to the project.
