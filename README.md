@@ -7,8 +7,8 @@ As the documentation evolves with the orchestration of the containers:
 * check that the IPs of the containers hit the documentation in "prints".
 
 # Table of Contents
-- [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
+- [Quick Start](#quick-start)
 
 # Prerequisites
 
