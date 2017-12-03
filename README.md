@@ -10,7 +10,7 @@ As the documentation evolves with the orchestration of the containers:
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
 - [Example compose](#example-compose)
-- [Documentation](#documentation-and-reasons-for-the-technologies-used)
+- [Documentation](#documentation-and-reasons-for-the-used-technologies)
 
 # Prerequisites
 
@@ -55,7 +55,7 @@ networks:
       external: true
 ```
 
-# Documentation and reasons for the technologies used
+# Documentation and reasons for the used technologies
 
 By dealing only with the continuous delivery of deploys from the software factory, I chose the jenkins for the flexibility and high level of automation of their pipelines. Ex: For our model we used the following plugins:
 
