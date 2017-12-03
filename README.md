@@ -8,6 +8,7 @@ As the documentation evolves with the orchestration of the containers:
 
 # Table of Contents
 - [Quick Start](#quick-start)
+- [Prerequisites](#prerequisites)
 
 # Prerequisites
 
