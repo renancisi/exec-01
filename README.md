@@ -9,6 +9,8 @@ As the documentation evolves with the orchestration of the containers:
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
+- [Documentation](#documentation-and-reasons-for-the-technologies-used)
+- [Example compose](#example-compose)
 
 # Prerequisites
 
